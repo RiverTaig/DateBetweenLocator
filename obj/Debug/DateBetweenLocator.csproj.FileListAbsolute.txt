@@ -1,0 +1,13 @@
+C:\Code\sales_marketing\trunk\DateBetweenLocator\obj\Debug\DateBetweenLocator.csprojResolveAssemblyReference.cache
+C:\Code\sales_marketing\trunk\DateBetweenLocator\obj\Debug\DateBetweenLocator.DateBetweenUI.resources
+C:\Code\sales_marketing\trunk\DateBetweenLocator\obj\Debug\DateBetweenLocator.Properties.Resources.resources
+C:\Code\sales_marketing\trunk\DateBetweenLocator\obj\Debug\DateBetweenLocator.csproj.GenerateResource.Cache
+C:\Code\sales_marketing\trunk\DateBetweenLocator\bin\Debug\DateBetweenLocator.dll
+C:\Code\sales_marketing\trunk\DateBetweenLocator\bin\Debug\DateBetweenLocator.pdb
+C:\Code\sales_marketing\trunk\DateBetweenLocator\bin\Debug\DateBetweenLocator.tlb
+C:\Code\sales_marketing\trunk\DateBetweenLocator\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+C:\Code\sales_marketing\trunk\DateBetweenLocator\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Code\sales_marketing\trunk\DateBetweenLocator\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Code\sales_marketing\trunk\DateBetweenLocator\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+C:\Code\sales_marketing\trunk\DateBetweenLocator\obj\Debug\DateBetweenLocator.dll
+C:\Code\sales_marketing\trunk\DateBetweenLocator\obj\Debug\DateBetweenLocator.pdb
